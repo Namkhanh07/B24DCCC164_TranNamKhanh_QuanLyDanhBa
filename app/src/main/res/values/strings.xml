@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Quản lý danh bạ</string>
+    <string name="title_login">Đăng nhập hệ thống</string>
+    <string name="hint_username">Tên đăng nhập</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="btn_login">Đăng nhập</string>
+    <string name="title_contact_list">Danh sách liên hệ</string>
+    <string name="btn_add_contact">Thêm liên hệ</string>
+    <string name="title_add_contact">Thêm liên hệ mới</string>
+    <string name="hint_full_name">Họ và tên</string>
+    <string name="hint_phone">Số điện thoại</string>
+    <string name="label_group">Nhóm liên hệ</string>
+    <string name="label_gender">Giới tính</string>
+    <string name="gender_male">Nam</string>
+    <string name="gender_female">Nữ</string>
+    <string name="gender_other">Khác</string>
+    <string name="label_favorite">Yêu thích</string>
+    <string name="hint_note">Ghi chú</string>
+    <string name="btn_save">Lưu liên hệ</string>
+    <string name="title_contact_detail">Chi tiết liên hệ</string>
+    <string name="btn_call">Gọi điện</string>
+    <string name="btn_back">Quay lại</string>
+    <string name="btn_delete">Xóa liên hệ</string>
+</resources>
